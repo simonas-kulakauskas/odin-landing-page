@@ -81,8 +81,6 @@ body {
     padding-left: 100px;
     width: 1800px;
     height: 300px;
-    overflow: hidden;
-    object-fit: cover;
 }
 
 #hero-text {
