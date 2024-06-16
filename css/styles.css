@@ -147,3 +147,41 @@ h1.info-title {
     font-weight: 1000;
     color: #1F2937;
 }
+
+.quote-container {
+    border: 5px solid yellow;
+    width: auto;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 350px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0.5rem;
+    gap: 5px;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 10;
+    color: #262f3b;
+    margin-bottom: 0;
+}
+
+.top-quote-container {
+    background-color: #E5E7EB;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#quote-author {
+    margin-left: auto;
+    color: #1F2937;
+    font-size: 25px;
+    font-weight: 1000;
+    margin-top: 0;
+}
